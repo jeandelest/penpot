@@ -73,3 +73,5 @@ frontend/.storybook/preview-body.html
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+volumes
+.env
